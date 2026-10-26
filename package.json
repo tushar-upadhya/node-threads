@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1": "node event-loop-order/execution-order.js",
+    "2": "node libuv-thread-pool/pbkdf2.js",
+    "3": "node perf-hooks/event-delay.js",
+    "4": "node work-thread/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
